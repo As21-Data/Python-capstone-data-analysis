@@ -34,7 +34,7 @@ Summarize analytical findings in a clear and structured manner
 
 The dataset used in this project contains structured data suitable for analysis. It includes multiple variables that allow exploration of distributions, relationships, and trends. The dataset was reviewed for missing values, duplicates, and inconsistencies before analysis.
 
-(Note: Dataset used for learning and analytical practice purposes.)
+
 
 ## 🔍 Key Tasks Performed
 
